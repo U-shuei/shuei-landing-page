@@ -1,0 +1,2 @@
+# shuei-landing-page
+シューエイランディングページ
